@@ -1,3 +1,4 @@
 # socialplugin
 social Wordpress plugin 
-![Screenshot](screenshot.jpg)
+
+![Screenshot](screen.jpg)
