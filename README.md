@@ -1,2 +1,2 @@
 # socialplugin
-social Wordpress
+social Wordpress plugin 
