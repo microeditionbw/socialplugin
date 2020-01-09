@@ -15,7 +15,7 @@
  * Description:       Поделиться ссылкой на ваши страницы
  * Version:           1.0.0
  * Author:            Valeriy2B
- * Author URI:        https://tommcfarlin.com
+ * Author URI:        https://vk.com/float999
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
